@@ -1,3 +1,8 @@
+/*
+ * SPDX-License-Identifier: MIT
+ * Copyright (c) 2025 Bekir Kağan Karaahmetoğlu <kagankaraahmetoglu@hotmail.com>
+ */
+
 #include <stdio.h>
 
 #define VAS_ARRAY_IMPLEMENTATION
